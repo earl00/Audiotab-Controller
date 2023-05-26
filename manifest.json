@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Tab Muter",
+    "name": "Audiotab-Controller",
     "version": "1.0",
     "description": "A simple extension to mute and unmute tabs with audio.",
     "permissions": [
