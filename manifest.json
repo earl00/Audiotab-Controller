@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Muter",
+    "version": "1.0",
+    "description": "A simple extension to mute and unmute tabs with audio.",
+    "permissions": [
+      "tabs"
+    ],
+    "action": {
+      "default_icon": { 
+        "48": "icon.png" 
+      },
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "icons": { 
+      "48": "icon.png" 
+    }
+  }
+  
